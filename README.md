@@ -1,7 +1,7 @@
 # Project_CapstoneKoios
 ## Detecting Thyroid Lesions in Ultrasound Scans: Object Localization using Bounding Boxes and Deep Learning
 
-_**This project aims to build a deep learning neural network model that can localize potential tumors and/or lesions on ultrasound scans of the thyroid. This model is trained on a data set of patient thyroid scans that have already been marked by radiologists, available [here](http://cimalab.intec.co/applications/thyroid/index.php) (based on [this](https://www.researchgate.net/publication/275340525_An_open_access_thyroid_ultrasound-image_Database) research paper). The model is built on the [Keras](https://keras.io/) framework (using tensor flow on the backend) and utilizes the [Xception](https://arxiv.org/abs/1610.02357) pre-trained weights to initialize its training.**_
+_**Sponsored by [Koios Medical](https://koiosmedical.com/), this project aims to build a deep learning neural network model that can localize potential tumors and/or lesions on ultrasound scans of the thyroid. This model is trained on a data set of patient thyroid scans that have already been marked by radiologists, available [here](http://cimalab.intec.co/applications/thyroid/index.php) (based on [this](https://www.researchgate.net/publication/275340525_An_open_access_thyroid_ultrasound-image_Database) research paper). The model is built on the [Keras](https://keras.io/) framework (using tensor flow on the backend) and utilizes the [Xception](https://arxiv.org/abs/1610.02357) pre-trained weights to initialize its training.**_
 
 - _**A brief blogpost on this project can be found [here](https://nycdatascience.com/blog/student-works/capstone/tumor-legion-detection-in-ultrasound-scans-of-the-thyroid-object-localization-using-bounding-boxes/)**_
 
