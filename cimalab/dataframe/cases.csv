@@ -1,0 +1,491 @@
+id,num,cancer,age,sex,composition,echogenicity,margins,calcification,tirads,reportbacaf,reporteco
+1,545,NULL,72,F,solid,"marked hypoechogenecity","ill- defined",NULL,5,NULL,NULL
+2,546,NULL,63,F,solid,isoechogenicity,microlobulated,NULL,4c,NULL,NULL
+3,547,NULL,61,F,"spongiform appareance",hypoechogenecity,"well defined smooth",NULL,4a,NULL,NULL
+4,548,NULL,40,F,solid,"marked hypoechogenecity","well defined smooth",NULL,4c,NULL,NULL
+5,549,NULL,31,F,solid,hypoechogenecity,"well defined smooth",NULL,4c,NULL,NULL
+6,550,NULL,64,F,solid,hypoechogenecity,"well defined smooth",NULL,5,NULL,"ARROWS : VESSELS "
+7,551,NULL,55,F,solid,"marked hypoechogenecity","ill- defined",NULL,5,NULL,NULL
+8,552,NULL,31,F,"predominantly solid",isoechogenicity,"ill- defined",NULL,4c,NULL,NULL
+9,554,NULL,82,F,solid,hypoechogenecity,"well defined smooth",NULL,4c,NULL,NULL
+10,555,NULL,52,M,solid,"marked hypoechogenecity","well defined smooth",NULL,4b,NULL,NULL
+11,557,NULL,23,M,solid,"marked hypoechogenecity","ill- defined",NULL,4c,NULL,NULL
+12,558,NULL,55,M,"spongiform appareance",hypoechogenecity,"well defined smooth",NULL,4a,NULL,NULL
+13,559,NULL,27,F,"spongiform appareance",isoechogenicity,"well defined smooth",NULL,4a,NULL,"ARROW: TRACHEA"
+14,560,NULL,58,F,solid,hypoechogenecity,"well defined smooth",NULL,4c,NULL,NULL
+15,561,NULL,56,F,"spongiform appareance",hyperechogenecity,"well defined smooth",NULL,4a,NULL,NULL
+16,562,NULL,24,F,"spongiform appareance",isoechogenicity,"well defined smooth",NULL,4a,NULL,NULL
+17,563,NULL,51,F,solid,hypoechogenecity,microlobulated,NULL,4c,NULL,NULL
+18,564,NULL,58,F,solid,"marked hypoechogenecity","ill- defined",NULL,5,NULL,NULL
+19,565,NULL,50,F,solid,hypoechogenecity,"ill- defined",NULL,5,NULL,NULL
+20,566,NULL,40,F,solid,"marked hypoechogenecity","ill- defined",NULL,4c,NULL,NULL
+21,567,NULL,40,F,solid,hypoechogenecity,"ill- defined",NULL,4c,NULL,NULL
+22,568,NULL,65,F,solid,"marked hypoechogenecity","ill- defined",NULL,5,NULL,NULL
+23,569,NULL,38,F,solid,hypoechogenecity,"ill- defined",NULL,5,NULL,NULL
+24,570,NULL,84,F,"spongiform appareance",hypoechogenecity,"well defined smooth",NULL,4b,NULL,NULL
+25,571,NULL,78,F,solid,"marked hypoechogenecity","ill- defined",NULL,4c,NULL,NULL
+26,572,NULL,29,M,solid,hypoechogenecity,"well defined smooth",NULL,4b,NULL,NULL
+27,573,NULL,64,F,solid,hypoechogenecity,microlobulated,NULL,4c,NULL,NULL
+28,574,NULL,43,F,solid,"marked hypoechogenecity","ill- defined",NULL,5,NULL,NULL
+29,575,NULL,54,F,"predominantly solid",isoechogenicity,"well defined smooth",NULL,3,NULL,"MULTIPLE PSEUDONODULES"
+30,576,NULL,78,F,"spongiform appareance",isoechogenicity,"well defined smooth",NULL,4a,NULL,NULL
+31,577,NULL,47,F,"spongiform appareance",isoechogenicity,"well defined smooth",NULL,3,NULL,NULL
+32,578,NULL,69,F,"spongiform appareance",isoechogenicity,"well defined smooth",NULL,2,NULL,NULL
+33,579,NULL,57,F,"predominantly solid",isoechogenicity,"well defined smooth",NULL,2,NULL,NULL
+34,580,NULL,63,F,"spongiform appareance",hypoechogenecity,"well defined smooth",NULL,2,NULL,NULL
+35,581,NULL,33,F,"spongiform appareance",isoechogenicity,"well defined smooth",NULL,2,NULL,NULL
+36,582,NULL,20,F,"predominantly solid",hypoechogenecity,"well defined smooth",NULL,2,NULL,NULL
+37,583,NULL,50,F,NULL,hypoechogenecity,NULL,NULL,2,NULL,"PSEUDONODULES
+TIROIDITIS "
+38,584,NULL,39,F,"spongiform appareance",isoechogenicity,"well defined smooth",NULL,2,NULL,THYROIDITIS
+39,585,NULL,46,F,"spongiform appareance",isoechogenicity,"well defined smooth",NULL,2,NULL,NULL
+40,586,NULL,38,F,"spongiform appareance",isoechogenicity,"well defined smooth",NULL,3,NULL,NULL
+41,587,NULL,70,M,"spongiform appareance",hyperechogenecity,"well defined smooth",NULL,3,NULL,NULL
+42,588,NULL,65,M,"spongiform appareance",isoechogenicity,"well defined smooth",NULL,2,NULL,"ARROW : CYSTIC COMPONENT"
+43,589,NULL,23,F,"spongiform appareance",isoechogenicity,"well defined smooth",NULL,3,NULL,NULL
+44,590,NULL,34,F,solid,hypoechogenecity,spiculated,NULL,4c,NULL,NULL
+45,591,NULL,44,F,"spongiform appareance",hyperechogenecity,"well defined smooth",NULL,2,NULL,NULL
+46,592,NULL,47,F,"predominantly solid",hypoechogenecity,"well defined smooth",NULL,3,NULL,"MULTIPLE NODULES"
+47,593,NULL,73,F,"spongiform appareance",isoechogenicity,"well defined smooth",NULL,3,NULL,NULL
+48,594,NULL,60,F,"spongiform appareance",isoechogenicity,"well defined smooth",NULL,2,NULL,NULL
+49,595,NULL,69,M,"spongiform appareance",hyperechogenecity,"well defined smooth",NULL,4a,NULL,"ARROW : CYSTIC COMPONENT "
+50,596,NULL,82,F,solid,hypoechogenecity,"well defined smooth",NULL,2,NULL,NULL
+51,597,NULL,48,F,"predominantly solid",isoechogenicity,"well defined smooth",NULL,2,NULL,NULL
+52,598,NULL,78,F,"predominantly solid",hyperechogenecity,"well defined smooth",NULL,3,NULL,NULL
+53,600,NULL,76,F,"spongiform appareance",hyperechogenecity,"well defined smooth",NULL,2,NULL,NULL
+54,601,NULL,53,F,"spongiform appareance",isoechogenicity,"well defined smooth",NULL,4a,NULL,NULL
+55,602,NULL,47,F,"spongiform appareance",isoechogenicity,"well defined smooth",NULL,2,NULL,NULL
+56,603,NULL,71,F,"spongiform appareance",isoechogenicity,"well defined smooth",NULL,4a,NULL,NULL
+57,604,NULL,46,M,solid,isoechogenicity,"well defined smooth",NULL,3,NULL,NULL
+58,605,NULL,49,F,solid,isoechogenicity,microlobulated,NULL,2,NULL,NULL
+59,606,NULL,56,F,"spongiform appareance",isoechogenicity,"well defined smooth",NULL,4a,NULL,NULL
+60,607,NULL,82,F,"spongiform appareance",isoechogenicity,"well defined smooth",NULL,3,NULL,NULL
+61,608,NULL,80,F,solid,hypoechogenecity,"ill- defined",NULL,5,NULL,NULL
+62,609,NULL,28,F,solid,hypoechogenecity,"well defined smooth",NULL,4b,NULL,NULL
+63,610,NULL,52,F,"spongiform appareance",hypoechogenecity,"well defined smooth",NULL,4a,NULL,NULL
+64,611,NULL,44,F,"spongiform appareance",isoechogenicity,"well defined smooth",NULL,2,NULL,NULL
+65,612,NULL,57,F,solid,hypoechogenecity,"well defined smooth",NULL,4c,NULL,NULL
+66,613,NULL,77,F,"spongiform appareance",hyperechogenecity,"well defined smooth",NULL,4a,NULL,NULL
+67,615,NULL,55,F,solid,"marked hypoechogenecity","well defined smooth",NULL,4b,NULL,NULL
+68,616,NULL,38,F,solid,isoechogenicity,"well defined smooth",NULL,4a,NULL,NULL
+69,617,NULL,62,M,solid,hypoechogenecity,"well defined smooth",NULL,4b,NULL,"ARROW: MACROCALCIFICATIONS"
+70,618,NULL,64,F,solid,hypoechogenecity,microlobulated,NULL,4b,NULL,NULL
+71,619,NULL,70,F,solid,hypoechogenecity,spiculated,NULL,4b,NULL,NULL
+72,620,NULL,48,F,"spongiform appareance",hypoechogenecity,"well defined smooth",NULL,4a,NULL,NULL
+73,621,NULL,70,F,"spongiform appareance",hypoechogenecity,"well defined smooth",NULL,4a,NULL,NULL
+74,622,NULL,35,M,solid,hypoechogenecity,microlobulated,NULL,4c,NULL,NULL
+75,623,NULL,78,F,solid,hypoechogenecity,"well defined smooth",NULL,4b,NULL,NULL
+76,624,NULL,52,F,"spongiform appareance",isoechogenicity,"well defined smooth",NULL,4a,NULL,NULL
+77,625,NULL,65,F,solid,"marked hypoechogenecity",spiculated,NULL,5,NULL,NULL
+78,626,NULL,35,F,solid,hypoechogenecity,"well defined smooth",NULL,4b,NULL,NULL
+79,629,NULL,70,F,solid,hypoechogenecity,spiculated,NULL,4b,NULL,NULL
+80,630,NULL,44,F,solid,isoechogenicity,"well defined smooth",NULL,4b,NULL,NULL
+81,631,NULL,60,F,solid,"marked hypoechogenecity","ill- defined",NULL,5,NULL,NULL
+82,632,NULL,63,F,solid,hyperechogenecity,"well defined smooth",NULL,2,NULL,NULL
+83,633,NULL,24,M,"spongiform appareance",isoechogenicity,"well defined smooth",NULL,2,NULL,"ARROW: TRACHEA"
+84,634,NULL,54,F,cystic,isoechogenicity,microlobulated,NULL,4a,NULL,NULL
+85,635,NULL,58,F,cystic,isoechogenicity,"well defined smooth",NULL,4a,NULL,NULL
+86,636,NULL,59,F,solid,"marked hypoechogenecity",microlobulated,NULL,4b,NULL,NULL
+87,637,NULL,69,F,solid,hypoechogenecity,"well defined smooth",NULL,4b,NULL,NULL
+88,638,NULL,63,F,solid,isoechogenicity,"well defined smooth",NULL,4a,NULL,NULL
+89,639,NULL,55,F,"spongiform appareance",isoechogenicity,"well defined smooth",NULL,4a,NULL,NULL
+90,640,NULL,54,F,solid,hypoechogenecity,microlobulated,NULL,4c,NULL,NULL
+91,641,NULL,54,F,solid,hyperechogenecity,"well defined smooth",NULL,2,NULL,NULL
+92,642,NULL,44,F,"spongiform appareance",isoechogenicity,"well defined smooth",NULL,3,NULL,NULL
+93,643,NULL,61,F,"spongiform appareance",isoechogenicity,"ill- defined",NULL,4c,NULL,NULL
+94,644,NULL,46,F,"spongiform appareance",hypoechogenecity,"well defined smooth",NULL,4b,NULL,NULL
+95,645,NULL,73,F,solid,hyperechogenecity,"well defined smooth",NULL,2,NULL,NULL
+96,646,NULL,74,F,"spongiform appareance",hypoechogenecity,"well defined smooth",NULL,4c,NULL,NULL
+97,647,NULL,41,F,solid,"marked hypoechogenecity","ill- defined",NULL,4c,NULL,NULL
+98,648,NULL,81,M,cystic,isoechogenicity,"well defined smooth",NULL,2,NULL,NULL
+99,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+100,10,NULL,74,F,solid,hyperechogenicity,spiculated,NULL,4b,NULL,NULL
+101,100,NULL,39,F,"predominantly solid",isoechogenicity,"well defined",NULL,4a,NULL,NULL
+102,101,NULL,40,M,solid,hypoechogenicity,"well defined",NULL,5,NULL,NULL
+103,102,NULL,28,F,solid,isoechogenicity,"well defined",NULL,4b,NULL,NULL
+104,103,NULL,60,F,spongiform,isoechogenicity,"well defined",NULL,4a,NULL,NULL
+105,104,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+106,105,NULL,82,F,solid,hyperechogenicity,"well defined",NULL,4a,NULL,NULL
+107,106,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+108,107,NULL,41,F,spongiform,isoechogenicity,"well defined",NULL,4a,NULL,NULL
+109,108,NULL,73,F,"predominantly cystic",isoechogenicity,"well defined",NULL,4a,NULL,NULL
+110,109,NULL,50,F,"predominantly cystic",hypoechogenicity,"well defined",NULL,4b,NULL,NULL
+111,11,NULL,30,F,solid,"marked hypoechogenicity",spiculated,NULL,5,NULL,"Thyroiditis + T5"
+112,110,NULL,56,F,"predominantly solid",hyperechogenicity,"well defined",NULL,4a,NULL,NULL
+113,111,NULL,34,u,spongiform,isoechogenicity,"well defined",NULL,4a,NULL,NULL
+114,112,NULL,36,F,solid,hypoechogenicity,"ill defined",NULL,4c,NULL,NULL
+115,113,NULL,27,u,spongiform,isoechogenicity,"well defined",NULL,4a,NULL,NULL
+116,114,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+117,115,NULL,76,F,solid,hypoechogenicity,"well defined",NULL,4c,NULL,NULL
+118,116,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+119,117,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+120,118,NULL,64,F,solid,isoechogenicity,microlobulated,NULL,4b,NULL,NULL
+121,119,NULL,60,F,spongiform,isoechogenicity,"well defined",NULL,4a,NULL,NULL
+122,12,NULL,45,F,"predominantly solid",isoechogenicity,"well defined",NULL,4a,NULL,NULL
+123,120,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+124,121,NULL,77,F,solid,hyperechogenicity,macrolobulated,NULL,4b,NULL,NULL
+125,122,NULL,80,F,solid,isoechogenicity,"well defined",NULL,4b,NULL,NULL
+126,123,NULL,47,F,solid,hyperechogenicity,"ill defined",NULL,4c,NULL,NULL
+127,124,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+128,125,NULL,44,M,solid,hypoechogenicity,"well defined",NULL,4c,NULL,NULL
+129,126,NULL,49,F,solid,isoechogenicity,microlobulated,NULL,4b,NULL,NULL
+130,127,NULL,67,F,solid,hyperechogenicity,"ill defined",NULL,2,NULL,NULL
+131,128,NULL,73,F,solid,hyperechogenicity,"ill defined",NULL,4c,NULL,NULL
+132,129,NULL,49,F,"predominantly solid",isoechogenicity,"well defined",NULL,4b,NULL,"Nodule 2"
+133,13,NULL,29,F,spongiform,isoechogenicity,"well defined",NULL,4a,NULL,NULL
+134,130,NULL,44,F,NULL,NULL,"well defined smooth",NULL,2,NULL,NULL
+135,131,NULL,49,F,solid,isoechogenicity,"well defined",NULL,4a,NULL,NULL
+136,132,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+137,133,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+138,134,NULL,57,F,solid,hyperechogenicity,"well defined",NULL,2,NULL,NULL
+139,135,NULL,51,F,solid,"marked hypoechogenicity","well defined",NULL,4b,NULL,NULL
+140,136,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+141,137,NULL,67,u,solid,isoechogenicity,"well defined",NULL,4c,NULL,NULL
+142,138,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+143,139,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+144,14,NULL,42,F,solid,hyperechogenicity,microlobulated,NULL,2,NULL,NULL
+145,140,NULL,58,u,solid,"marked hypoechogenicity","well defined",NULL,NULL,NULL,NULL
+146,141,NULL,47,u,"predominantly solid",hypoechogenicity,"well defined",NULL,4c,NULL,NULL
+147,142,NULL,52,F,solid,"marked hypoechogenicity",macrolobulated,NULL,4c,NULL,NULL
+148,143,NULL,32,u,solid,hypoechogenicity,"well defined",NULL,4a,NULL,NULL
+149,144,NULL,30,F,"predominantly cystic",isoechogenicity,"well defined",NULL,4b,NULL,NULL
+150,145,NULL,NULL,F,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+151,146,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+152,147,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+153,148,NULL,37,F,solid,hypoechogenicity,"well defined",NULL,4b,NULL,NULL
+154,149,NULL,78,M,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+155,15,NULL,38,F,"predominantly solid",isoechogenicity,microlobulated,NULL,4c,NULL,NULL
+156,150,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+157,151,NULL,51,F,spongiform,isoechogenicity,"well defined",NULL,4a,NULL,NULL
+158,152,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+159,153,NULL,46,F,solid,hypoechogenicity,"well defined",NULL,4b,NULL,NULL
+160,154,NULL,61,F,"predominantly solid",isoechogenicity,"ill defined",NULL,4b,NULL,NULL
+161,155,NULL,56,M,solid,hypoechogenicity,microlobulated,NULL,4c,NULL,NULL
+162,156,NULL,75,F,solid,isoechogenicity,"ill defined",NULL,4c,NULL,NULL
+163,157,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+164,158,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+165,159,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+166,16,NULL,67,F,spongiform,isoechogenicity,"well defined",NULL,3,NULL,NULL
+167,160,NULL,78,F,solid,hyperechogenicity,"well defined",NULL,2,NULL,NULL
+168,161,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+169,162,NULL,40,F,solid,hypoechogenicity,"ill defined",NULL,4c,NULL,NULL
+170,163,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+171,164,NULL,54,F,solid,isoechogenicity,"well defined",NULL,4b,NULL,NULL
+172,165,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+173,166,NULL,14,F,spongiform,isoechogenicity,"well defined",NULL,4a,NULL,NULL
+174,167,NULL,22,F,dense,isoechogenicity,"well defined",NULL,4b,NULL,NULL
+175,168,NULL,25,F,solid,"marked hypoechogenicity",microlobulated,NULL,4c,NULL,NULL
+176,169,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+177,17,NULL,40,F,solid,hypoechogenicity,"well defined",NULL,2,NULL,NULL
+178,170,NULL,55,F,"predominantly solid",isoechogenicity,"well defined",NULL,4a,NULL,NULL
+179,171,NULL,57,F,solid,hyperechogenicity,"well defined",NULL,4b,NULL,NULL
+180,172,NULL,36,F,spongiform,isoechogenicity,"well defined",NULL,4a,NULL,NULL
+181,173,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+182,174,NULL,58,u,"predominantly cystic",isoechogenicity,"well defined",NULL,4a,NULL,NULL
+183,175,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+184,176,NULL,35,F,spongiform,hyperechogenicity,"well defined",NULL,4b,NULL,NULL
+185,177,NULL,74,u,solid,hypoechogenicity,"well defined",NULL,4c,NULL,NULL
+186,178,NULL,19,F,solid,hypoechogenicity,"well defined",NULL,4a,NULL,NULL
+187,179,NULL,43,F,solid,isoechogenicity,"well defined",NULL,4b,NULL,NULL
+188,18,NULL,77,F,solid,hypoechogenicity,"well defined",NULL,4a,NULL,NULL
+189,180,NULL,43,F,solid,hypoechogenicity,spiculated,NULL,5,NULL,NULL
+190,181,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+191,182,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+192,183,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+193,184,NULL,79,F,spongiform,hyperechogenicity,"well defined",NULL,4a,NULL,NULL
+194,185,NULL,68,F,solid,hyperechogenicity,"well defined",NULL,4a,NULL,NULL
+195,186,NULL,36,M,solid,hypoechogenicity,spiculated,NULL,5,NULL,"First FNA on feb. 2014 Bethesda 3"
+196,187,NULL,59,F,solid,hyperechogenicity,"well defined",NULL,4b,NULL,NULL
+197,188,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+198,189,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+199,19,NULL,56,F,solid,"marked hypoechogenicity","well defined",NULL,5,NULL,NULL
+200,190,NULL,43,F,solid,hyperechogenicity,"ill defined",NULL,2,NULL,"LSD upper 1/3 "
+201,192,NULL,56,M,solid,isoechogenicity,"well defined",NULL,4b,NULL,NULL
+202,193,NULL,38,F,solid,hypoechogenicity,"ill defined",NULL,2,NULL,NULL
+203,194,NULL,41,F,spongiform,isoechogenicity,"well defined",NULL,4a,NULL,NULL
+204,195,NULL,86,F,solid,hyperechogenicity,"well defined",NULL,4b,NULL,NULL
+205,196,NULL,81,M,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+206,197,NULL,68,M,"predominantly cystic",isoechogenicity,"well defined",NULL,4a,NULL,NULL
+207,198,NULL,65,F,spongiform,isoechogenicity,"well defined",NULL,4a,NULL,NULL
+208,199,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+209,2,NULL,49,F,solid,hyperechogenicity,"well defined",NULL,2,NULL,NULL
+210,20,NULL,63,M,solid,hypoechogenicity,microlobulated,NULL,4b,NULL,NULL
+211,200,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+212,201,NULL,68,F,solid,hypoechogenicity,"well defined",NULL,4c,NULL,NULL
+213,202,NULL,44,F,"predominantly solid",hypoechogenicity,"well defined",NULL,4c,NULL,NULL
+214,203,NULL,64,F,solid,hypoechogenicity,"well defined",NULL,4b,NULL,NULL
+215,204,NULL,51,F,solid,hyperechogenicity,"well defined",NULL,2,NULL,NULL
+216,205,NULL,52,F,spongiform,isoechogenicity,"well defined",NULL,4a,NULL,NULL
+217,206,NULL,68,M,solid,hypoechogenicity,spiculated,NULL,4c,NULL,NULL
+218,207,NULL,46,F,dense,"marked hypoechogenicity","well defined",NULL,5,NULL,NULL
+219,208,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+220,209,NULL,31,F,"predominantly solid",hypoechogenicity,macrolobulated,NULL,4a,NULL,NULL
+221,21,NULL,74,F,solid,hyperechogenicity,"well defined",NULL,4a,NULL,NULL
+222,210,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+223,211,NULL,84,M,"predominantly solid",hypoechogenicity,"ill defined",NULL,5,NULL,NULL
+224,212,NULL,32,F,"predominantly cystic",isoechogenicity,"well defined",NULL,4a,NULL,NULL
+225,213,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+226,214,NULL,50,F,"predominantly solid",isoechogenicity,"well defined",NULL,4b,NULL,NULL
+227,215,NULL,59,F,solid,isoechogenicity,"ill defined",NULL,4c,NULL,NULL
+228,216,NULL,50,F,solid,hypoechogenicity,"well defined",NULL,4c,NULL,NULL
+229,217,NULL,50,F,solid,hypoechogenicity,"well defined",NULL,4c,NULL,NULL
+230,219,NULL,48,F,"predominantly solid",isoechogenicity,"well defined",NULL,4b,NULL,NULL
+231,22,NULL,33,F,solid,hyperechogenicity,"well defined",NULL,2,NULL,NULL
+232,220,NULL,75,F,solid,hypoechogenicity,"ill defined",NULL,5,NULL,NULL
+233,221,NULL,49,F,"predominantly cystic",isoechogenicity,"well defined",NULL,4b,NULL,NULL
+234,222,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+235,223,NULL,47,M,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+236,224,NULL,39,F,spongiform,isoechogenicity,"well defined",NULL,4a,NULL,NULL
+237,225,NULL,50,F,spongiform,isoechogenicity,"well defined",NULL,4a,NULL,"Nodule 1"
+238,226,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+239,227,NULL,36,F,solid,hypoechogenicity,spiculated,NULL,5,NULL,NULL
+240,228,NULL,45,F,dense,hypoechogenicity,"well defined",NULL,4c,NULL,NULL
+241,229,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+242,23,NULL,31,F,solid,hyperechogenicity,"well defined",NULL,4a,NULL,NULL
+243,230,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+244,231,NULL,76,M,solid,isoechogenicity,macrolobulated,NULL,4a,NULL,NULL
+245,232,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+246,233,NULL,23,F,NULL,NULL,"well defined smooth",NULL,4b,NULL,NULL
+247,234,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+248,235,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+249,236,NULL,80,F,solid,isoechogenicity,"well defined",NULL,4c,NULL,NULL
+250,237,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+251,238,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+252,239,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+253,24,NULL,63,F,solid,hyperechogenicity,"well defined",NULL,4b,NULL,NULL
+254,240,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+255,241,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+256,242,NULL,63,F,solid,isoechogenicity,"well defined",NULL,4b,NULL,NULL
+257,243,NULL,47,F,solid,hypoechogenicity,microlobulated,NULL,4c,NULL,NULL
+258,244,NULL,41,F,solid,hypoechogenicity,"well defined",NULL,4c,NULL,NULL
+259,245,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+260,246,NULL,47,F,solid,"marked hypoechogenicity",spiculated,NULL,5,NULL,NULL
+261,247,NULL,52,F,solid,hyperechogenicity,"ill defined",NULL,2,NULL,NULL
+262,248,NULL,65,M,solid,hyperechogenicity,"well defined",NULL,4a,NULL,NULL
+263,249,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+264,25,NULL,22,F,solid,hyperechogenicity,"well defined",NULL,3,NULL,NULL
+265,250,NULL,NULL,F,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+266,251,NULL,73,F,solid,hyperechogenicity,"well defined",NULL,4b,NULL,NULL
+267,252,NULL,29,u,dense,hypoechogenicity,spiculated,NULL,5,NULL,NULL
+268,253,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+269,254,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+270,255,NULL,49,F,solid,isoechogenicity,"well defined",NULL,4a,NULL,NULL
+271,256,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+272,257,NULL,57,NULL,solid,hyperechogenicity,"well defined",NULL,4a,NULL,NULL
+273,258,NULL,47,F,solid,hypoechogenicity,"well defined",NULL,4c,NULL,NULL
+274,259,NULL,27,F,"predominantly solid",isoechogenicity,"well defined",NULL,4a,NULL,NULL
+275,26,NULL,52,F,solid,hypoechogenicity,"well defined",NULL,4a,NULL,NULL
+276,260,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+277,261,NULL,74,F,solid,isoechogenicity,"well defined",NULL,4b,NULL,NULL
+278,262,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+279,263,NULL,55,F,"predominantly solid",isoechogenicity,"well defined",NULL,4b,NULL,NULL
+280,264,NULL,81,F,solid,isoechogenicity,"well defined",NULL,4b,NULL,NULL
+281,265,NULL,76,F,"predominantly cystic",isoechogenicity,"well defined",NULL,4b,NULL,NULL
+282,266,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+283,267,NULL,49,F,"predominantly solid",hypoechogenicity,"well defined",NULL,4b,NULL,NULL
+284,268,NULL,36,F,"predominantly solid",isoechogenicity,"well defined",NULL,4a,NULL,NULL
+285,269,NULL,59,u,"predominantly solid",isoechogenicity,"well defined",NULL,4b,NULL,NULL
+286,27,NULL,68,F,solid,hypoechogenicity,"well defined",NULL,4b,NULL,NULL
+287,270,NULL,69,F,solid,hyperechogenicity,"well defined",NULL,2,NULL,NULL
+288,271,NULL,62,F,solid,hypoechogenicity,"well defined",NULL,4c,NULL,NULL
+289,272,NULL,72,F,"predominantly cystic",isoechogenicity,"well defined",NULL,4a,NULL,NULL
+290,273,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+291,274,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+292,275,NULL,47,F,"predominantly solid",isoechogenicity,macrolobulated,NULL,4b,NULL,NULL
+293,276,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+294,277,NULL,56,F,solid,hypoechogenicity,"well defined",NULL,4b,NULL,NULL
+295,278,NULL,38,F,"predominantly solid",isoechogenicity,"well defined",NULL,4a,NULL,NULL
+296,279,NULL,60,F,cystic,isoechogenicity,"well defined",NULL,4b,NULL,NULL
+297,28,NULL,65,F,spongiform,isoechogenicity,"well defined",NULL,4b,NULL,NULL
+298,280,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+299,281,NULL,50,F,solid,"marked hypoechogenicity",microlobulated,NULL,4c,NULL,NULL
+300,282,NULL,68,F,"predominantly solid",hypoechogenicity,"well defined",NULL,4c,NULL,NULL
+301,283,NULL,67,F,solid,isoechogenicity,"well defined",NULL,4a,NULL,NULL
+302,284,NULL,50,F,solid,isoechogenicity,"well defined",NULL,4b,NULL,NULL
+303,285,NULL,70,F,solid,hyperechogenicity,"well defined",NULL,2,NULL,NULL
+304,286,NULL,35,u,solid,isoechogenicity,"well defined",NULL,4b,NULL,NULL
+305,287,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+306,288,NULL,57,F,NULL,NULL,"well defined smooth",NULL,4c,NULL,NULL
+307,289,NULL,77,F,NULL,NULL,"well defined smooth",NULL,4a,NULL,NULL
+308,29,NULL,33,F,solid,"marked hypoechogenicity","ill defined",NULL,5,NULL,NULL
+309,290,NULL,80,F,NULL,NULL,"ill- defined",NULL,5,NULL,NULL
+310,291,NULL,78,F,NULL,NULL,"well defined smooth",NULL,4b,NULL,NULL
+311,292,NULL,78,F,NULL,NULL,"well defined smooth",NULL,3,NULL,NULL
+312,293,NULL,55,M,NULL,NULL,"well defined smooth",NULL,4a,NULL,NULL
+313,294,NULL,55,F,NULL,NULL,"ill- defined",NULL,5,NULL,NULL
+314,295,NULL,56,F,NULL,NULL,"well defined smooth",NULL,4a,NULL,NULL
+315,296,NULL,58,F,NULL,NULL,"ill- defined",NULL,5,NULL,NULL
+316,297,NULL,54,F,NULL,NULL,microlobulated,NULL,4c,NULL,NULL
+317,298,NULL,71,F,NULL,NULL,"well defined smooth",NULL,4a,NULL,NULL
+318,299,NULL,54,F,NULL,NULL,microlobulated,NULL,4a,NULL,NULL
+319,3,NULL,31,F,spongiform,isoechogenicity,"well defined",NULL,4a,NULL,NULL
+320,30,NULL,50,F,solid,"marked hypoechogenicity","ill defined",NULL,4c,NULL,NULL
+321,300,NULL,58,F,NULL,NULL,"well defined smooth",NULL,4a,NULL,NULL
+322,301,NULL,52,F,NULL,NULL,"well defined smooth",NULL,4a,NULL,NULL
+323,302,NULL,64,F,NULL,NULL,microlobulated,NULL,4b,NULL,NULL
+324,303,NULL,63,F,NULL,NULL,"well defined smooth",NULL,2,NULL,NULL
+325,304,NULL,58,F,NULL,NULL,"well defined smooth",NULL,4c,NULL,NULL
+326,305,NULL,54,F,NULL,NULL,"well defined smooth",NULL,2,NULL,NULL
+327,306,NULL,53,F,NULL,NULL,"well defined smooth",NULL,4a,NULL,NULL
+328,307,NULL,52,F,NULL,NULL,"well defined smooth",NULL,4a,NULL,NULL
+329,308,NULL,48,F,NULL,NULL,"well defined smooth",NULL,4a,NULL,NULL
+330,309,NULL,47,F,NULL,NULL,"well defined smooth",NULL,3,NULL,"MULTIPLE NODULES"
+331,31,NULL,42,F,solid,hyperechogenicity,"well defined",NULL,3,NULL,"taller than wide"
+332,310,NULL,49,F,NULL,NULL,microlobulated,NULL,2,NULL,NULL
+333,311,NULL,44,F,NULL,NULL,"well defined smooth",NULL,4b,NULL,NULL
+334,312,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+335,313,NULL,40,F,NULL,NULL,"well defined smooth",NULL,4c,NULL,NULL
+336,314,NULL,38,F,NULL,NULL,"well defined smooth",NULL,4a,NULL,NULL
+337,315,NULL,38,F,NULL,NULL,"ill- defined",NULL,5,NULL,NULL
+338,316,NULL,35,F,NULL,NULL,"well defined smooth",NULL,4b,NULL,NULL
+339,317,NULL,34,F,NULL,NULL,spiculated,NULL,4c,NULL,NULL
+340,318,NULL,31,F,NULL,NULL,"well defined smooth",NULL,4c,NULL,NULL
+341,319,NULL,31,F,NULL,NULL,"ill- defined",NULL,4c,NULL,NULL
+342,32,NULL,42,F,solid,hyperechogenicity,"well defined",NULL,4a,NULL,NULL
+343,320,NULL,28,F,NULL,NULL,"well defined smooth",NULL,4b,NULL,NULL
+344,321,NULL,35,M,NULL,NULL,microlobulated,NULL,4c,NULL,NULL
+345,323,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+346,326,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+347,329,NULL,81,M,NULL,NULL,"well defined smooth",NULL,2,NULL,NULL
+348,33,NULL,79,F,spongiform,isoechogenicity,"well defined",NULL,4a,NULL,NULL
+349,330,NULL,72,F,NULL,NULL,"ill- defined",NULL,5,NULL,NULL
+350,331,NULL,48,F,NULL,NULL,"well defined smooth",NULL,2,NULL,NULL
+351,332,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+352,333,NULL,69,F,NULL,NULL,"well defined smooth",NULL,2,NULL,NULL
+353,334,NULL,38,F,NULL,NULL,"well defined smooth",NULL,3,NULL,NULL
+354,335,NULL,20,F,NULL,NULL,"well defined smooth",NULL,2,NULL,NULL
+355,336,NULL,47,F,NULL,NULL,"well defined smooth",NULL,2,NULL,NULL
+356,337,NULL,64,F,NULL,NULL,"well defined smooth",NULL,5,NULL,"ARROWS : VESSELS "
+357,338,NULL,78,F,NULL,NULL,"ill- defined",NULL,4c,NULL,NULL
+358,339,NULL,73,F,NULL,NULL,"well defined smooth",NULL,2,NULL,NULL
+359,34,NULL,46,F,solid,hypoechogenicity,spiculated,NULL,4c,NULL,NULL
+360,340,NULL,65,F,NULL,NULL,spiculated,NULL,5,NULL,NULL
+361,341,NULL,41,F,NULL,NULL,"ill- defined",NULL,4c,NULL,NULL
+362,342,NULL,23,M,NULL,NULL,"ill- defined",NULL,4c,NULL,NULL
+363,343,NULL,29,M,NULL,NULL,"well defined smooth",NULL,4b,NULL,NULL
+364,344,NULL,55,F,NULL,NULL,"well defined smooth",NULL,4a,NULL,NULL
+365,345,NULL,43,F,NULL,NULL,"ill- defined",NULL,5,NULL,NULL
+366,346,NULL,73,F,NULL,NULL,"well defined smooth",NULL,3,NULL,NULL
+367,347,NULL,54,F,NULL,NULL,"well defined smooth",NULL,3,NULL,"MULTIPLE PSEUDONODULES"
+368,348,NULL,70,F,NULL,NULL,"well defined smooth",NULL,4a,NULL,NULL
+369,349,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+370,35,NULL,55,F,solid,hypoechogenicity,"well defined",NULL,4b,NULL,NULL
+371,350,NULL,56,F,NULL,NULL,"well defined smooth",NULL,4a,NULL,NULL
+372,351,NULL,65,F,NULL,NULL,"ill- defined",NULL,5,NULL,NULL
+373,352,NULL,59,F,NULL,NULL,microlobulated,NULL,4b,NULL,NULL
+374,353,NULL,78,F,NULL,NULL,"well defined smooth",NULL,4a,NULL,NULL
+375,354,NULL,52,M,NULL,NULL,"well defined smooth",NULL,4b,NULL,NULL
+376,355,NULL,84,F,NULL,NULL,"well defined smooth",NULL,4b,NULL,NULL
+377,356,NULL,46,F,NULL,NULL,"well defined smooth",NULL,2,NULL,NULL
+378,357,NULL,69,F,NULL,NULL,"well defined smooth",NULL,4b,NULL,NULL
+379,358,NULL,27,F,NULL,NULL,"well defined smooth",NULL,4a,NULL,"ARROW: TRACHEA"
+380,359,NULL,50,F,NULL,NULL,NULL,NULL,2,NULL,"PSEUDONODULES
+TIROIDITIS "
+381,36,NULL,54,F,dense,hypoechogenicity,spiculated,NULL,5,NULL,NULL
+382,360,NULL,61,F,NULL,NULL,"well defined smooth",NULL,4a,NULL,NULL
+383,361,NULL,63,F,NULL,NULL,"well defined smooth",NULL,2,NULL,NULL
+384,362,NULL,65,M,NULL,NULL,"well defined smooth",NULL,2,NULL,"ARROW : CYSTIC COMPONENT"
+385,363,NULL,55,F,NULL,NULL,"well defined smooth",NULL,4b,NULL,NULL
+386,364,NULL,82,F,NULL,NULL,"well defined smooth",NULL,2,NULL,NULL
+387,365,NULL,44,F,NULL,NULL,"well defined smooth",NULL,2,NULL,NULL
+388,366,NULL,47,F,NULL,NULL,"well defined smooth",NULL,3,NULL,NULL
+389,367,NULL,51,F,NULL,NULL,microlobulated,NULL,4c,NULL,NULL
+390,368,NULL,70,F,NULL,NULL,spiculated,NULL,4b,NULL,NULL
+391,369,NULL,60,F,NULL,NULL,"well defined smooth",NULL,2,NULL,NULL
+392,370,NULL,61,F,NULL,NULL,"ill- defined",NULL,4c,NULL,NULL
+393,371,NULL,63,F,NULL,NULL,microlobulated,NULL,4c,NULL,NULL
+394,372,NULL,46,F,NULL,NULL,"well defined smooth",NULL,4b,NULL,NULL
+395,373,NULL,23,F,NULL,NULL,"well defined smooth",NULL,3,NULL,NULL
+396,374,NULL,60,F,NULL,NULL,"ill- defined",NULL,5,NULL,NULL
+397,375,NULL,44,F,NULL,NULL,"well defined smooth",NULL,3,NULL,NULL
+398,376,NULL,46,M,NULL,NULL,"well defined smooth",NULL,3,NULL,NULL
+399,377,NULL,76,F,NULL,NULL,"well defined smooth",NULL,2,NULL,NULL
+400,378,NULL,24,M,NULL,NULL,"well defined smooth",NULL,2,NULL,"ARROW: TRACHEA"
+401,379,NULL,74,F,NULL,NULL,"well defined smooth",NULL,4c,NULL,NULL
+402,38,NULL,33,F,spongiform,hypoechogenicity,"well defined",NULL,4b,NULL,NULL
+403,380,NULL,82,F,NULL,NULL,"well defined smooth",NULL,3,NULL,NULL
+404,381,NULL,40,F,NULL,NULL,"ill- defined",NULL,4c,NULL,NULL
+405,382,NULL,70,M,NULL,NULL,"well defined smooth",NULL,3,NULL,NULL
+406,383,NULL,81,u,"predominantly solid","marked hypoechogenicity",microlobulated,NULL,4c,NULL,NULL
+407,384,NULL,69,M,NULL,NULL,"well defined smooth",NULL,4a,NULL,"ARROW : CYSTIC COMPONENT "
+408,386,NULL,57,F,NULL,NULL,"well defined smooth",NULL,2,NULL,NULL
+409,387,NULL,64,F,NULL,NULL,microlobulated,NULL,4c,NULL,NULL
+410,388,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+411,389,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+412,39,NULL,57,F,cystic,isoechogenicity,"well defined",NULL,4a,NULL,NULL
+413,390,NULL,82,F,NULL,NULL,"well defined smooth",NULL,4c,NULL,NULL
+414,391,NULL,33,F,NULL,NULL,"well defined smooth",NULL,2,NULL,NULL
+415,392,NULL,40,F,NULL,NULL,"ill- defined",NULL,4c,NULL,NULL
+416,394,NULL,50,F,NULL,NULL,"ill- defined",NULL,5,NULL,NULL
+417,395,NULL,24,F,NULL,NULL,"well defined smooth",NULL,4a,NULL,NULL
+418,396,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+419,397,NULL,39,F,NULL,NULL,"well defined smooth",NULL,2,NULL,THYROIDITIS
+420,398,NULL,70,F,NULL,NULL,spiculated,NULL,4b,NULL,NULL
+421,399,NULL,62,M,NULL,NULL,"well defined smooth",NULL,4b,NULL,"ARROW: MACROCALCIFICATIONS"
+422,4,NULL,37,F,spongiform,isoechogenicity,"well defined",NULL,4a,NULL,NULL
+423,40,NULL,57,F,solid,isoechogenicity,"ill defined",NULL,4a,NULL,NULL
+424,400,NULL,63,F,NULL,NULL,"well defined smooth",NULL,4a,NULL,NULL
+425,41,NULL,78,F,solid,hypoechogenicity,"well defined",NULL,4b,NULL,NULL
+426,42,NULL,55,F,solid,isoechogenicity,"well defined",NULL,4b,NULL,NULL
+427,43,NULL,35,F,dense,hypoechogenicity,"well defined",NULL,4c,NULL,NULL
+428,44,NULL,53,F,spongiform,isoechogenicity,"well defined",NULL,4a,NULL,NULL
+429,45,NULL,74,F,solid,hypoechogenicity,"well defined",NULL,4b,NULL,NULL
+430,46,NULL,56,F,dense,hypoechogenicity,spiculated,NULL,5,NULL,NULL
+431,47,NULL,91,F,solid,hypoechogenicity,"well defined",NULL,4a,NULL,NULL
+432,48,NULL,63,F,solid,isoechogenicity,NULL,NULL,4b,NULL,NULL
+433,49,NULL,58,F,"predominantly cystic",hypoechogenicity,"well defined",NULL,4a,NULL,NULL
+434,5,NULL,47,F,solid,hypoechogenicity,"ill defined",NULL,5,NULL,NULL
+435,50,NULL,62,F,"predominantly solid",hyperechogenicity,"well defined",NULL,4a,NULL,NULL
+436,51,NULL,48,F,solid,hyperechogenicity,"well defined",NULL,2,NULL,NULL
+437,52,NULL,45,M,solid,hyperechogenicity,"well defined",NULL,4a,NULL,"Posible thyroiditis"
+438,53,NULL,61,F,dense,hypoechogenicity,"ill defined",NULL,4c,NULL,NULL
+439,54,NULL,73,F,dense,hypoechogenicity,"well defined",NULL,4c,NULL,NULL
+440,55,NULL,52,F,solid,hypoechogenicity,"ill defined",NULL,4b,NULL,NULL
+441,56,NULL,67,F,"predominantly solid",hypoechogenicity,spiculated,NULL,5,NULL,NULL
+442,57,NULL,75,F,spongiform,hypoechogenicity,"well defined",NULL,4b,NULL,NULL
+443,58,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+444,59,NULL,76,F,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+445,6,NULL,60,M,spongiform,isoechogenicity,"ill defined",NULL,4b,NULL,NULL
+446,60,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+447,61,NULL,51,F,solid,hyperechogenicity,"well defined",NULL,2,NULL,NULL
+448,62,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+449,63,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+450,64,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+451,65,NULL,58,F,"predominantly solid",isoechogenicity,"well defined",NULL,4a,NULL,NULL
+452,66,NULL,60,F,solid,"marked hypoechogenicity","well defined",NULL,2,NULL,NULL
+453,67,NULL,59,F,solid,"marked hypoechogenicity","well defined",NULL,4b,NULL,NULL
+454,68,NULL,48,F,"predominantly solid",isoechogenicity,"ill defined",NULL,4b,NULL,NULL
+455,69,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+456,7,NULL,62,F,spongiform,isoechogenicity,"well defined",NULL,4a,NULL,NULL
+457,70,NULL,68,F,"predominantly solid",isoechogenicity,"ill defined",NULL,4a,NULL,NULL
+458,71,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+459,72,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+460,73,NULL,62,u,solid,isoechogenicity,"well defined",NULL,4b,NULL,NULL
+461,74,NULL,57,F,solid,hypoechogenicity,"ill defined",NULL,4c,NULL,NULL
+462,75,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+463,76,NULL,20,M,"predominantly solid",isoechogenicity,"well defined",NULL,4a,NULL,NULL
+464,77,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+465,78,NULL,53,F,"predominantly cystic",isoechogenicity,"well defined",NULL,4b,NULL,NULL
+466,79,NULL,50,F,solid,hypoechogenicity,spiculated,NULL,4b,NULL,NULL
+467,8,NULL,55,F,dense,hypoechogenicity,"well defined",NULL,4c,NULL,NULL
+468,80,NULL,60,M,solid,"marked hypoechogenicity",macrolobulated,NULL,5,NULL,NULL
+469,81,NULL,48,F,solid,hypoechogenicity,spiculated,NULL,5,NULL,NULL
+470,82,NULL,56,F,spongiform,isoechogenicity,"well defined",NULL,4a,NULL,NULL
+471,83,NULL,53,F,spongiform,isoechogenicity,"well defined",NULL,4a,NULL,NULL
+472,84,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+473,85,NULL,30,F,solid,"marked hypoechogenicity","ill defined",NULL,5,NULL,NULL
+474,86,NULL,28,F,"predominantly cystic",isoechogenicity,"well defined",NULL,4a,NULL,NULL
+475,87,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+476,88,NULL,56,M,"predominantly cystic",isoechogenicity,"well defined",NULL,4a,NULL,NULL
+477,89,NULL,63,F,solid,isoechogenicity,"well defined",NULL,4b,NULL,NULL
+478,9,NULL,41,F,"predominantly solid",hyperechogenicity,"well defined",NULL,4b,NULL,NULL
+479,90,NULL,58,F,"predominantly solid",isoechogenicity,"well defined",NULL,4b,NULL,NULL
+480,91,NULL,34,F,solid,hypoechogenicity,"well defined",NULL,4c,NULL,NULL
+481,92,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+482,93,NULL,70,F,solid,hyperechogenicity,"well defined",NULL,4a,NULL,"Nodule 1"
+483,94,NULL,74,u,solid,isoechogenicity,"well defined",NULL,4a,NULL,NULL
+484,95,NULL,41,u,solid,isoechogenicity,"well defined",NULL,4a,NULL,NULL
+485,96,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+486,97,NULL,77,M,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+487,98,NULL,62,F,solid,hyperechogenicity,"well defined",NULL,4a,NULL,NULL
+488,99,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
